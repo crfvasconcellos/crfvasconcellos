@@ -1,3 +1,4 @@
+Portugûes(PtBr)
 - 👋 Olá, eu sou o Cláudio (@crfvasconcellos)
 - 👀 Estou interessado em programação e desenvolvimento de software.
 - 🌱 Atualmente, estou aprendendo Python e explorando o mundo da TI.
@@ -6,7 +7,8 @@
 - 😄 Pronomes: ele/dele
 - ⚡ Fato curioso: Estou no início da minha jornada em TI, mas já estou adorando explorar as possibilidades da programação!
 
-
+English
+ 
 - 👋 Hi, I’m Cláudio (@crfvasconcellos)
 - 👀 I’m interested in programming and software development.
 - 🌱 I’m currently learning Python and exploring the world of IT.
