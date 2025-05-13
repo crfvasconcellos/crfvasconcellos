@@ -1,3 +1,7 @@
+[![crfvasconcellos's GitHub stats](https://github-readme-stats.vercel.app/api?username=crfvasconcellos&theme=dark)](https://github.com/crfvasconcellos/github-readme-stats)
+
+
+
 Portugûes(PtBr)
 - 👋 Olá, eu sou o Cláudio (@crfvasconcellos)
 - 👀 Estou interessado em programação e desenvolvimento de software.
