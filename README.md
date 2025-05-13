@@ -1,22 +1,26 @@
-[![crfvasconcellos's GitHub stats](https://github-readme-stats.vercel.app/api?username=crfvasconcellos&theme=dark)](https://github.com/crfvasconcellos/github-readme-stats)
+<h1 align="center">Hi there 👋, I'm Cláudio Vasconcellos</h1>
 
+<p align="center">
+🎓 <strong>Computer Science student at UFT</strong><br>
+💻 Passionate about technology, programming, and continuous learning<br>
+🌱 Currently exploring the world of technology and the fundamentals of computing<br>
+🚀 Always looking for projects that challenge my creativity and expand my knowledge<br>
+📍 Palmas - TO, Brazil
+</p>
 
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crfvasconcellos&theme=cobalt2&show_icons=true&hide_border=true" alt="GitHub Stats" width="500" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crfvasconcellos&theme=cobalt2&layout=compact&hide_border=true" alt="Top Languages" width="500" height="250" />
+</div>
 
-Portugûes(PtBr)
-- 👋 Olá, eu sou o Cláudio (@crfvasconcellos)
-- 👀 Estou interessado em programação e desenvolvimento de software.
-- 🌱 Atualmente, estou aprendendo Python e explorando o mundo da TI.
-- 💞️ Estou aberto a colaborar em projetos iniciais de programação e Python.
-- 📫 Como me contatar: através do GitHub ou e-mail ou linkedin
-- 😄 Pronomes: ele/dele
-- ⚡ Fato curioso: Estou no início da minha jornada em TI, mas já estou adorando explorar as possibilidades da programação!
+---
 
-English
- 
-- 👋 Hi, I’m Cláudio (@crfvasconcellos)
-- 👀 I’m interested in programming and software development.
-- 🌱 I’m currently learning Python and exploring the world of IT.
-- 💞️ I’m looking to collaborate on beginner programming and Python projects.
-- 📫 How to reach me: via GitHub or email or linkedin.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I’m just starting my journey in IT, but I’m already loving exploring the possibilities of programming!
+<p align="center">
+  <strong>Languages & Tools</strong><br><br>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" />
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" />
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
+</p>
