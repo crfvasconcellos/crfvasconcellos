@@ -9,7 +9,7 @@
 </p>
 
 ---
-<div align="left">
+<div style="text-align: left;">
   <img src="https://github-readme-stats.vercel.app/api?username=crfvasconcellos&theme=cobalt2&show_icons=true&hide_border=true" alt="GitHub Stats" width="500" height="250" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crfvasconcellos&theme=cobalt2&layout=compact&hide_border=true" alt="Top Languages" width="500" height="250" />
 </div>
