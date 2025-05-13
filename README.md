@@ -1,5 +1,8 @@
 <h1 align="left">Hi there 👋, I'm Cláudio Vasconcellos</h1>
 
+[![Linkedin: claudiovasconcellos](https://img.shields.io/badge/-claudiovasconcellos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudiovasconcellos/)](https://www.linkedin.com/in/claudiovasconcellos/)
+[![GitHub crfvasconcellos](https://img.shields.io/github/followers/crfvasconcellos?label=follow&style=social)](https://github.com/crfvasconcellos)
+
 <p align="left">
   🎓 <strong>Computer Science student at UFT</strong><br>
   💻 Passionate about technology, programming, and continuous learning<br>
@@ -9,9 +12,13 @@
 </p>
 
 ---
-<div style="text-align: left;">
-  <img src="https://github-readme-stats.vercel.app/api?username=crfvasconcellos&theme=cobalt2&show_icons=true&hide_border=true" alt="GitHub Stats" width="500" height="250" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crfvasconcellos&theme=cobalt2&layout=compact&hide_border=true" alt="Top Languages" width="500" height="250" />
+<div align="center">
+  <a href="https://github.com/crfvasconcellos" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=crfvasconcellos&theme=cobalt2&show_icons=true&hide_border=true" alt="GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com/crfvasconcellos" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crfvasconcellos&theme=cobalt2&layout=compact&hide_border=true" alt="Top Languages" height="150" />
+  </a>
 </div>
 
 ---
@@ -20,7 +27,7 @@
   <strong>I code with</strong><br><br>
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" />
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
 </p>
