@@ -26,8 +26,10 @@
 <p align="left">
   <strong>I code with</strong><br><br>
   <img height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
-  <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" />
+  <img height="50" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" />
+  <img height="50" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" />
   <img height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
-  <img height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" /> 
   <img height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
+  
 </p>
