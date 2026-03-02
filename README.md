@@ -11,31 +11,18 @@
   📍 Palmas - TO, Brazil
 </p>
 
+
 ---
-<table>
-<tr>
-<td>
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crfvasconcellos&theme=gruvbox)
-
-</td>
-<td>
-
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crfvasconcellos&theme=gruvbox)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crfvasconcellos&theme=gruvbox" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crfvasconcellos&theme=gruvbox" width="400"/>
+</p>
 
 ---
 
 <p align="left">
-  <strong>I code with</strong><br><br>
-  <img height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
-  <img height="50" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" />
-  <img height="50" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" />
-  <img height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
-  <img height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" /> 
-  <img height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
+  <strong>I code with</strong><br>
+  
+  ![Langs](https://skillicons.dev/icons?i=java,python,c,html,css,git,github)
   
 </p>
