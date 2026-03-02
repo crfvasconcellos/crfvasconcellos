@@ -16,12 +16,12 @@
 <tr>
 <td>
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crfvasconcellos&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crfvasconcellos&theme=gruvbox)
 
 </td>
 <td>
 
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crfvasconcellos&theme=github_dark)
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crfvasconcellos&theme=gruvbox)
 
 </td>
 </tr>
