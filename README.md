@@ -23,6 +23,6 @@
 <p align="left">
   <strong>I code with</strong><br>
   
-  ![Langs](https://skillicons.dev/icons?i=java,python,c,html,css,git,github)
+  ![Langs](https://skillicons.dev/icons?i=java,python,c,javascript,html,css,git,github)
   
 </p>
