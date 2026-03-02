@@ -12,14 +12,20 @@
 </p>
 
 ---
-<div align="center">
-  <a href="https://github.com/crfvasconcellos" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=crfvasconcellos&theme=cobalt2&show_icons=true&hide_border=true" alt="GitHub Stats" height="150" />
-  </a>
-  <a href="https://github.com/crfvasconcellos" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crfvasconcellos&theme=cobalt2&layout=compact&hide_border=true" alt="Top Languages" height="150" />
-  </a>
-</div>
+<table>
+<tr>
+<td>
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crfvasconcellos&theme=github_dark)
+
+</td>
+<td>
+
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crfvasconcellos&theme=github_dark)
+
+</td>
+</tr>
+</table>
 
 ---
 
