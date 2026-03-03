@@ -5,9 +5,10 @@
 
 <p align="left">
   🎓 <strong>Computer Science student at UFT</strong><br>
-  💻 Passionate about technology, programming, and continuous learning<br>
-  🌱 Currently exploring the world of technology and the fundamentals of computing<br>
-  🚀 Always looking for projects that challenge my creativity and expand my knowledge<br>
+  ☕ <strong>Focusing on Java Ecosystem </strong><br>
+  💻 Passionate about Backend Development and Software Architecture<br>
+  🌱 Currently diving deep into Java fundamentals and Clean Code<br>
+  🚀 Building scalable projects and expanding my knowledge in JVM languages<br>
   📍 Palmas - TO, Brazil
 </p>
 
@@ -21,8 +22,22 @@
 ---
 
 <p align="left">
-  <strong>I code with</strong><br>
-  
-  ![Langs](https://skillicons.dev/icons?i=java,python,c,javascript,html,css,git,github)
-  
+  <strong>🔥 Main Focus (Java Ecosystem)</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+</p>
+
+<p align="left">
+  <strong>🛠️ Tools & Databases</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  </a>
+</p>
+
+<p align="left">
+  <strong>📚 Familiar with</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,javascript,html,css" />
+  </a>
 </p>
