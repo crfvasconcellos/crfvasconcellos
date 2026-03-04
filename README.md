@@ -38,6 +38,6 @@
 <p align="left">
   <strong>📚 Familiar with</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,c,javascript,php,html,css" />
   </a>
 </p>
