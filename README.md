@@ -31,7 +31,7 @@
 <p align="left">
   <strong>🛠️ Tools & Databases</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,figma,mysql" />
   </a>
 </p>
 
