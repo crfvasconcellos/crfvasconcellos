@@ -22,16 +22,16 @@
 ---
 
 <p align="left">
-  <strong>🔥 Main Focus (Java Ecosystem)</strong><br>
+  <strong>🔥 Main Focus (Java Backend)</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=java,hibernate" />
   </a>
 </p>
 
 <p align="left">
   <strong>🛠️ Tools & Databases</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,figma,mysql,hibernate" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,figma,mysql,postgres" />
   </a>
 </p>
 
