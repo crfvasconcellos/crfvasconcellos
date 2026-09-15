@@ -24,7 +24,7 @@
 <p align="left">
   <strong>🔥 Main Focus (Java Backend)</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,hibernate" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
   </a>
 </p>
 
